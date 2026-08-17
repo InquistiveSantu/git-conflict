@@ -24,4 +24,10 @@ rg = {
      location = "westus"
     
   }
+
+  rg4 = {
+
+    name ="Santu"
+    location = "eastus"
+  }
 }
