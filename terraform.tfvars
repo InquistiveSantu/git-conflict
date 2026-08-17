@@ -5,4 +5,13 @@ rg = {
         name = "conflict1"
         location = "westus"
     }
+
+
+    rg2 = {
+
+                name = "conflict2"
+               location = "westus"
+  
+
+    }
 }
